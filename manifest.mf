@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ly.artifact.analysis.test
+Class-Path: lib/commons-lang.jar lib/core1.0.jar lib/Jama-1.0.2.jar lib/stanford-postagger.jar lib/supportWN.jar lib/tagger.jar lib/ritaWN.jar lib/log4j-1.2.14.jar
+Manifest-Version: 1.0

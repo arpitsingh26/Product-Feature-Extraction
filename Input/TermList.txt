@@ -1,0 +1,4733 @@
+phone,2748
+screen,444
+iphon,521
+samsung,386
+app,318
+batteri,275
+camera,261
+featur,245
+android,220
+batteri life,235
+devic,236
+peopl,140
+galaxi,188
+dai,305
+qualiti,127
+size,111
+feel,145
+look,228
+review,173
+appl,126
+bui,222
+verizon,176
+set,151
+displai,94
+user,81
+speed,106
+hand,124
+button,87
+voic,76
+drop,112
+android phone,70
+smartphon,161
+light,99
+video,113
+samsung galaxi,194
+softwar,100
+run,110
+updat,141
+data,62
+network,85
+pictur,91
+actual,82
+os,54
+design,67
+wifi,63
+screen size,38
+speaker,26
+htc,78
+connect,115
+option,87
+gp,51
+googl,70
+start,85
+plastic,54
+especi,58
+perform,73
+includ,86
+complet,53
+samsung phone,24
+internet,78
+cover,66
+game,69
+experi,67
+plai,93
+version,112
+hour,122
+quickli,48
+applic,59
+try,103
+week,110
+cell phone,69
+chang,129
+itun,25
+screen phone,6
+amazon,126
+custom,79
+hardwar,67
+download,89
+lte,58
+box,81
+text,77
+easili,71
+price,76
+huge,41
+fix,79
+oper,64
+amol screen,11
+email,67
+bought,177
+charg,132
+phone screen,5
+abl,112
+servic,76
+flash,45
+sim card,71
+glass,35
+countri,33
+compar,97
+life,21
+seller,90
+music,56
+learn,41
+monei,58
+processor,41
+switch,81
+definit,43
+normal,22
+unit,28
+signal,43
+read,93
+web,58
+touch,42
+hold,70
+sprint,91
+keyboard,43
+photo,60
+unlock,66
+wait,68
+technolog,33
+interfac,36
+market,90
+report,24
+cpu,18
+remov,32
+highli,13
+background,19
+receiv,85
+level,21
+mode,26
+blackberri,47
+star,64
+talk,64
+allow,57
+carrier,81
+hear,35
+charger,57
+simpli,37
+droid,50
+iii,84
+expect,81
+arriv,44
+volum,36
+previou,35
+main,16
+task,25
+mobil,35
+decid,67
+condit,13
+messag,34
+laptop,19
+friend,57
+bluetooth,49
+coupl,58
+contact,71
+function,71
+total,29
+stop,44
+creat,22
+amol,4
+abil,40
+warranti,55
+line,42
+program,44
+evo,39
+simpl,27
+home,38
+store,59
+half,32
+note,52
+weight,38
+experienc,25
+low,30
+left,44
+unless,23
+video camera,13
+white,36
+sim,14
+widget,46
+spend,32
+final,67
+pocket,60
+probabl,67
+ok,61
+ic,35
+notic,51
+real,34
+consid,56
+load,34
+card,26
+deal,34
+major,26
+slim,35
+imag,16
+seen,52
+past,41
+plu,47
+languag,44
+tri,74
+mayb,57
+stuff,39
+tell,65
+minor,12
+figur,58
+model,71
+minut,57
+press,31
+home button,38
+base,33
+featur phone,4
+unlock phone,26
+carri,31
+ad,36
+hit,42
+type,40
+comment,33
+android os,24
+memori,33
+quick,24
+current,39
+fit,49
+touch screen,21
+world,38
+variou,19
+user interfac,14
+restart,17
+android app,5
+heat,18
+automat,31
+cell,19
+lock,34
+motorola,18
+intern,38
+initi,27
+instal,64
+dont,39
+phone app,4
+root,43
+touchwiz,26
+despit,29
+transit,10
+deliveri,17
+brand,33
+leav,39
+pai,44
+mobil phone,13
+graphic,18
+search,38
+phone featur,3
+contrast,7
+suggest,34
+addit,34
+car,32
+stai,18
+return,63
+pop,24
+kei,26
+intern phone,10
+process,15
+send,64
+wish,45
+activ,28
+standard,25
+inform,22
+grip,13
+check,57
+intern version,51
+ui,28
+iphon screen,2
+tech,18
+speaker phone,4
+app store,11
+space,16
+file,28
+compani,36
+usb,28
+siri,39
+volum button,10
+mind,29
+reboot,22
+phone camera,3
+previou phone,17
+ram,39
+period,10
+stream,16
+develop,22
+deliv,18
+io,38
+plan,42
+instead,51
+hd,26
+matter,31
+map,14
+phone feel,8
+wife,37
+phone includ,3
+test,42
+shoot,18
+camera qualiti,8
+biggest,15
+scroll,14
+usual,32
+heavi,24
+black,39
+specif,23
+im,28
+everydai,11
+multipl,21
+gb,37
+heard,22
+tablet,34
+resolv,17
+solv,27
+potenti,11
+similar,29
+home screen,21
+size screen,3
+menu,22
+razr,20
+lightweight,18
+pull,22
+storag,27
+phone look,6
+travel,27
+moder,17
+sammi,20
+android oper,10
+htc evo,37
+physic,21
+hopefulli,14
+manual,28
+nearli,19
+usag,27
+siii,36
+pc,39
+audio,19
+phone run,8
+speak,20
+finger,21
+facebook,26
+shot,19
+told,52
+sync,44
+micro,10
+palm,13
+answer,38
+dual core,28
+contract,40
+page,22
+android devic,17
+ear,19
+natur,16
+cut,20
+view,29
+plai game,13
+blue,15
+video qualiti,10
+mention,33
+goe,23
+soon,34
+tool,12
+youtub,12
+nexu,25
+edg,36
+clock,11
+app android,2
+nokia,16
+materi,17
+movi,26
+sell,25
+alot,11
+night,29
+mp,9
+pick,34
+research,27
+truli,18
+offer,44
+write,30
+panel,6
+bar,28
+german,16
+sold,27
+basic,24
+TRUE,36
+sd card,34
+focu,23
+gadget,16
+googl wallet,18
+folder,23
+ki,29
+locat,28
+app run,6
+handl,26
+look phone,4
+sourc,12
+burst mode,11
+separ,12
+verizon phone,3
+choic,31
+gorilla glass,21
+radio,18
+screen protector,17
+lte network,11
+direct,32
+parti,8
+push,20
+appl iphon,9
+respond,15
+htc phone,4
+music player,9
+rom,18
+phone displai,2
+packag,31
+item,34
+larger,17
+brazil,10
+icon,28
+extra,37
+word,28
+happen,35
+launcher,14
+bigger,32
+window,18
+spanish,24
+jelli bean,29
+slot,20
+build,18
+idea,15
+job,16
+android market,19
+default,19
+batteri perform,6
+run app,5
+sign,14
+wake,13
+firmwar,23
+headphon,32
+nfc,18
+galaxi nexu,22
+outdoor,11
+gui,20
+surprisingli,9
+phone arriv,4
+android featur,2
+slightli,18
+download app,8
+motorola phone,3
+add,44
+usa,24
+rare,17
+zero,12
+requir,38
+appear,25
+sensor,10
+skype,19
+memori card,13
+transfer,21
+ii,55
+maxx,12
+coverag,20
+citi,9
+english,39
+iphon app,2
+reset,17
+chip,21
+summari,9
+youtub video,8
+spec,25
+record,16
+ship,31
+care,23
+configur,16
+ye,46
+main phone,4
+razr maxx,15
+middl,14
+boot,10
+pebbl blue,17
+repair,25
+android smartphon,4
+text messag,26
+batteri cover,7
+attempt,12
+oh,24
+track,17
+rear camera,10
+comparison,21
+busi,26
+sii,35
+ipad,18
+cost,30
+camera app,5
+rate,28
+quad core,13
+swype,19
+data plan,11
+metal,16
+guess,29
+att,25
+phone everydai,3
+spot,8
+constantli,22
+result,24
+account,14
+manufactur,22
+share,25
+phone perform,3
+phone compani,4
+phone memori,2
+drive,25
+listen,23
+core,8
+trade,10
+bodi,21
+water,12
+mail,15
+combin,10
+frequenc,21
+shut,12
+recent,27
+term,22
+follow,21
+built,25
+control,19
+practic,16
+browser,17
+verizon network,4
+address,13
+close,30
+stock,20
+jellybean,11
+pic,26
+plug,38
+edit,13
+discov,20
+cabl,11
+accid,17
+iphon user,11
+huge screen,5
+invest,6
+light phone,2
+exampl,22
+earphon,12
+air,4
+mac,17
+onlin,15
+user experi,13
+ca,3
+tweak,13
+list,33
+owner,12
+awar,15
+extend batteri,15
+boi,11
+futur,18
+curv,6
+voic command,15
+spent,20
+googl plai,17
+player,4
+glass screen,2
+european,11
+custom servic,17
+phone charg,4
+sport,5
+phone softwar,2
+bare,16
+micro usb,9
+gestur,8
+throw,14
+samsung app,4
+watch,21
+bb,17
+micro sd,7
+pictur qualiti,12
+light weight,13
+plu screen,4
+social,6
+voicemail,7
+site,19
+averag,18
+bigger screen,14
+exactli,23
+wont,13
+actual phone,2
+intern memori,17
+shell,8
+lock screen,10
+larger screen,12
+connector,5
+sort,9
+forum,13
+click,22
+shoot camera,3
+inch,13
+hardli,10
+network speed,2
+avoid,9
+insid,15
+launch,21
+verizon version,7
+phone start,3
+band,18
+flip phone,7
+video record,8
+screen look,2
+sm,9
+dual core processor,15
+song,11
+swap,13
+outlook,13
+tap,19
+headset,6
+film,6
+phone unless,3
+german languag,3
+movistar,13
+oem,17
+honestli,12
+accessori,16
+phone set,2
+galaxi samsung,2
+entir,16
+special,15
+flat,11
+sale,12
+ghz,6
+ecosystem,6
+gotten,13
+bloatwar,15
+phone technolog,2
+aspect,9
+phone drop,2
+appl phone,2
+auto,10
+consum,12
+numer,12
+virtual,7
+micro sim,7
+hspa,13
+notif,12
+mhl,4
+seri,13
+cancel,7
+common,17
+dollar,8
+hr,14
+huge phone,2
+voic app,2
+finish,13
+platform,12
+android user,3
+tast,7
+googl app,3
+volum rocker,9
+exchang,13
+straight,12
+stick,15
+ran,14
+famili,15
+tini,8
+intern storag,10
+batteri run,2
+phone easili,2
+hd displai,4
+os android,2
+adob,5
+beat,22
+near,12
+touchscreen,12
+engin,10
+ago,29
+calendar,21
+rang,10
+burst shot,4
+twice,27
+perspect,8
+catch,8
+venezuela,14
+data usag,7
+electron,12
+voic search,6
+customiz,15
+tag,7
+phone simpli,2
+real camera,2
+mhz,7
+anymor,17
+town,9
+step,17
+dial,13
+produc,7
+seal,18
+cellphon,33
+enabl,14
+internet connect,6
+pixel,8
+lightn,2
+till,10
+googl voic,4
+rid,10
+android version,8
+busi dai,5
+valu,13
+ic cream sandwich,27
+wireless,16
+paid,24
+captur,6
+galaxi siii,13
+ic updat,4
+insur,15
+join,7
+client,10
+window phone,5
+phone function,3
+switch phone,2
+sd,4
+desktop,14
+china,9
+profil,8
+begin,18
+local,11
+whistl,5
+wallet,3
+technic,10
+implement,7
+son,22
+ki air,6
+user manual,8
+god,4
+morn,13
+hd video,8
+nokia phone,4
+spanish languag,2
+softwar updat,12
+surf,18
+chang phone,3
+screen displai,3
+signal strength,5
+regular,12
+phone bought,2
+record video,4
+tether,9
+plai music,9
+bring,19
+hotspot,8
+pair,6
+essenti,17
+data speed,5
+setup,13
+situat,8
+voic mail,11
+netflix,7
+announc,7
+motorola droid,10
+kept,17
+juic,6
+stand,17
+instanc,8
+incorpor,6
+soni,4
+motorola atrix,6
+ear phone,2
+lte phone,2
+phone box,2
+form,12
+expand,16
+acknowledg,6
+ipod,6
+physic button,3
+yeah,7
+instal app,5
+mhl connector,6
+lcd,6
+hd qualiti,2
+europ,9
+forev,8
+class,14
+hide,7
+ton,21
+android ic,4
+mom,11
+buyer,5
+phone goe,3
+random,6
+visibl,6
+singl,15
+evo lte,5
+batteri easili,3
+descript,9
+input,6
+phone lock,3
+eventu,13
+wifi connect,5
+wide,5
+android experi,2
+dozen,4
+prepar,6
+late,14
+held,9
+screen stai,3
+sprint network,4
+rear,5
+tone,3
+samsung note,3
+la,39
+equip,10
+load app,2
+feet,7
+pack,14
+appl devic,4
+quad,4
+fluid,8
+commun,10
+gsm,11
+internet speed,3
+thumb,13
+core processor,4
+gmail,14
+unlock version,8
+audio qualiti,6
+shortcut,7
+mix,6
+link,17
+es,47
+epic,8
+samsung ki,15
+sent,23
+delet,13
+airplan mode,5
+relat,8
+extend,4
+brand phone,2
+plai video,4
+antenna,7
+firmwar updat,6
+tmobil,9
+asid,8
+menu button,10
+par,13
+backup,10
+phone mention,2
+samsung brazil,6
+daughter,13
+keypad,6
+googl account,6
+mobil network,5
+sg,6
+doesnt,13
+exist,9
+chang batteri,2
+deep,7
+googl nexu,2
+phone despit,2
+occur,6
+chose,13
+reduc,5
+hei,6
+book,14
+que,43
+america,2
+appli,10
+android store,2
+copi,13
+feel light,3
+hd screen,6
+accept,12
+reach,10
+handset,10
+atrix,6
+share photo,4
+plai store,8
+exyno,5
+gingerbread,11
+adob flash,4
+blue phone,3
+strength,3
+usb cabl,4
+usb connect,4
+photo qualiti,3
+sprint phone,3
+sight,6
+isnt,6
+jump,13
+factori unlock,10
+current phone,2
+ass,6
+dual,2
+lg,9
+chanc,10
+build qualiti,14
+stereo,3
+kernel,14
+remain,13
+date,18
+intern warranti,17
+bootload,10
+lock phone,2
+factori,7
+liter,6
+particularli,6
+galaxi iii,4
+folk,5
+droid phone,3
+offic,12
+insert,7
+score,7
+mini,15
+repeat,11
+googl map,8
+post,15
+worldwid,5
+displai qualiti,2
+galaxi sii,14
+screen captur,3
+prior,10
+squar,4
+chang languag,4
+googl search,9
+data network,2
+micro sd card,15
+white screen,2
+server,3
+art,9
+depart,7
+batteri durat,4
+car stereo,5
+squeez,6
+ii phone,2
+galaxi note,7
+sit,13
+red,8
+ident,6
+samsung usa,3
+low price,4
+phone plan,2
+uk,11
+assist,4
+blackberri user,3
+gig,10
+typic,9
+playback,6
+main screen,2
+android gingerbread,7
+googl voic search,3
+dropbox,6
+spare,10
+phone contact,2
+nut,7
+brother,9
+box includ,2
+max,11
+frequent,13
+admit,8
+ebai,10
+berri,3
+didnt,11
+samsung mobil,2
+kid,14
+movistar venezuela,4
+mbp,7
+uniqu,8
+disappear,6
+info,8
+contact samsung,6
+command,5
+solut,21
+round,6
+kinda,3
+net,9
+inch screen,3
+movement,6
+suddenli,5
+bold,3
+obviou,20
+feedback,5
+sleep,6
+snooz,9
+pin,5
+form factor,8
+pictur look,2
+factori reset,6
+zoom,8
+android softwar,3
+iii phone,2
+flip,3
+web surf,7
+factor,5
+watch video,9
+bluetooth phone,2
+port,10
+seamlessli,6
+block,9
+eat,6
+chat,5
+video plai,2
+wireless network,6
+run android,6
+burst,3
+coupl week,3
+smartphon user,4
+recogn,12
+brief,4
+paper,6
+wireless connect,5
+shop,12
+global mobil,11
+fg trade,6
+okai,10
+media,7
+guid,4
+custom rom,10
+amazon sell,2
+low batteri,2
+introduc,7
+mark,10
+phone radio,2
+auto focu,5
+ahead,9
+watch movi,7
+snapdragon,2
+constant,9
+california,5
+capac,4
+twitter,8
+phone appear,3
+virtual keyboard,5
+el,45
+microphon,9
+major carrier,5
+husband,4
+volum kei,4
+car phone speaker,2
+updat version,2
+gsm phone,2
+phone prior,2
+prior phone,2
+facil,5
+costum,2
+dai easili,2
+french,7
+bezel,6
+overnight,6
+lo,29
+stack,7
+android updat,3
+speakerphon,6
+blackberri bold,5
+previou samsung,3
+ic cream,4
+lg optimu,5
+appl os,3
+droid razr maxx,7
+notif bar,5
+asu,3
+microsd card,8
+capacit button,6
+crystal,4
+share shot,5
+alert,4
+upload,8
+seemingli,3
+xperia,3
+samsung version,2
+samsung electron,10
+video chat,10
+final decid,4
+vendor,8
+team,6
+head,8
+pantalla,6
+plain,6
+softwar develop,4
+straight talk,4
+eu,5
+gone,14
+sprint custom,3
+south america,4
+flagship,5
+print,6
+familiar,7
+apart,5
+explain,10
+updat firmwar,2
+digit,4
+bigger phone,3
+brick,7
+music plai,2
+confirm,10
+roll,12
+medium,5
+applic run,4
+placement,7
+particular,10
+head phone,2
+rememb,16
+voic qualiti,2
+sandwich,3
+websit,10
+imei,8
+overh,5
+carefulli,5
+document,9
+expert,4
+verizon galaxi,2
+intend,7
+rel,6
+bluetooth connect,2
+remind,9
+previou iphon,2
+gonna,5
+tend,4
+lumia,4
+batteri option,2
+wikipedia,4
+action,4
+exact,7
+tegra,5
+wifi hotspot,3
+en,33
+nerd,2
+la pantalla,4
+touch button,2
+synchron,4
+rock,9
+slipperi,10
+verizon wireless,5
+blog,4
+significantli,6
+send messag,2
+compon,4
+entri,5
+giant,4
+mui,22
+doubl,7
+girl,7
+ol,3
+skip,5
+galleri,5
+esp,4
+phone transfer,2
+oem shop,10
+draw,4
+premium,5
+refer,5
+south,2
+week ago,14
+competitor,7
+yesterdai,8
+gb ram,3
+adopt,5
+pentil,7
+immedi,12
+letter,4
+titl,8
+proof,4
+yahoo,5
+abandon,4
+prime,4
+capacit touch,3
+realiti,6
+driver,4
+stock android,4
+cnet,4
+process speed,4
+grow,4
+wimax,4
+samsung box,2
+english version,3
+mega pixel camera,6
+samsung account,3
+ti,10
+type text,2
+al,16
+protector,1
+argentina,4
+bean,1
+motion,5
+usb port,6
+fridai,6
+repli,6
+batteri usag,2
+lte speed,2
+slip,10
+rural,3
+android platform,4
+tint,4
+sprint lte,2
+style,5
+length,5
+novemb,5
+galaxi ii,3
+persist,5
+kick,7
+bass,3
+gorilla,1
+video player,4
+music file,2
+scene,5
+home kei,3
+match,11
+commut,4
+korean,3
+summer,4
+phone soon,2
+languag set,2
+android handset,2
+enter,4
+ipod touch,8
+european languag,2
+boostmobil,7
+circl,4
+simultan,5
+outlet,4
+palm treo,2
+supplier,3
+lastli,8
+tv,14
+oversea,6
+usb connector,4
+edg speed,3
+half hour,2
+mah batteri,4
+default set,2
+capit,5
+slim design,2
+fm radio,6
+onboard,5
+exyno processor,4
+nfc phone,2
+glossi,4
+availbl,3
+mb,5
+white version,4
+payment,5
+microsd,3
+compet,10
+phone rock,5
+sequenc,4
+phone directli,2
+verizon model,4
+touch wiz,3
+sun,4
+aka,5
+toi,9
+music playback,2
+web browser,3
+august,3
+directli,15
+dream,6
+center,9
+brought,7
+roam,4
+recharg,10
+video review,3
+arrow,5
+regist,11
+lower,7
+dai ago,6
+forward,7
+real life,3
+versu,6
+school,6
+averag size hand,3
+european charger,2
+network coverag,2
+demand,4
+silver,3
+explor,6
+leap,5
+ntild,20
+la pantalla es,3
+ur,4
+warranti card,7
+droid razr,3
+preview,5
+assum,6
+microphon kei,4
+portrait,4
+expand memori,7
+slim form factor,3
+optimu,1
+frankli,4
+retina,2
+volum control,3
+roughli,5
+ring tone,5
+util,5
+salesperson,4
+notch,7
+havent,3
+el mejor,12
+android allow,2
+instantan,5
+shape,5
+shift,4
+instant,3
+uruguai,3
+samsung uk,2
+motor,3
+foreign,3
+frame,6
+afternoon,2
+mic,5
+road,3
+textur,3
+texa,4
+extern,13
+jellybean updat,2
+custom option,2
+es mui,5
+leather,2
+megapixel,5
+contact amazon,2
+batteri left,2
+unplug,3
+rep,8
+procesador,4
+era,7
+code,7
+iv,4
+ms,2
+substanti,4
+north,3
+email account,2
+list goe,3
+load quickli,2
+plastic build,2
+look forward,5
+septemb,5
+extra batteri,7
+verizon told,2
+christma,5
+uniqu featur,2
+marbl white,3
+wifi network,3
+motorola razr,3
+marketplac,4
+ball,2
+pad,4
+vs,6
+megapixel camera,3
+hdmi,3
+real smartphon,2
+variant,4
+mac user,2
+energi,2
+tube,2
+toyota,3
+se,19
+meant,3
+dslr,3
+ultra,1
+ni,6
+preload,4
+durat,2
+del,12
+verizon store,3
+contract price,2
+millimet,6
+capacit,1
+receipt,3
+butt,4
+plastic bodi,2
+dialer,4
+batteri pack,3
+oh yeah,4
+caught,3
+coz,3
+microsd card slot,3
+nonetheless,3
+omg,3
+beep,3
+earlier,5
+apn,7
+page manual,2
+global,2
+photographi,3
+chrome,5
+podcast,4
+technic review,2
+landscap,3
+mega pixel,5
+close app,2
+sgsii,5
+perk,4
+treo,2
+earbud,3
+rapido,5
+heavi user,4
+aplicacion,5
+anda,2
+samsung told,2
+beast,4
+homescreen,3
+assign,4
+gestur control,3
+hook,4
+english manual,3
+voic assist,3
+scale,2
+simpl mobil,3
+race,3
+tpu,4
+aluminum,3
+mm,6
+doc,4
+luckili,6
+wasnt,3
+spoke,5
+carrier lock,2
+socket,5
+tab,5
+element,4
+hyperion,2
+hyperion batteri,2
+behalf,2
+usb charger,2
+predict,2
+overcom,5
+couch,3
+rout,3
+independ,5
+googl talk,8
+eq,4
+en la,5
+la aplicacion,2
+egg,2
+sw,2
+zero bar,2
+photo look,2
+darn,5
+programa,4
+kei pad,4
+lightweight plastic,2
+batteri charger,2
+meet,4
+ring,4
+premium phone,2
+reserv,3
+hasslefreecel,3
+electr,2
+anim,4
+la mejor,2
+sprint user,3
+ow,3
+llego,7
+set menu,2
+region,5
+wirelessli,5
+car charger,3
+nov,2
+imo,7
+telefono,14
+street,4
+salesman,3
+una,16
+skin,4
+beam,7
+pero,16
+confort,4
+korea,5
+es la,2
+tener,5
+leader,3
+track app,2
+angl,2
+marri,3
+birthdai,3
+door,3
+gtalk,3
+parent,3
+european version,4
+scientist,2
+tune,2
+mass,3
+capit letter,2
+que es,4
+home page,3
+woke,3
+para,13
+unbrand,2
+centuri,3
+en el,7
+king,3
+camara,2
+mile,6
+hardcor,2
+tip,4
+ladi,2
+format,6
+wire,3
+determin,4
+por,13
+light situat,2
+januari,2
+mb ram,4
+closer,3
+expand storag,2
+dna,3
+att store,4
+amazon ship,2
+por la,2
+touchwiz ui,2
+microsim,2
+kindl,3
+garmin,2
+encrypt,3
+delgado,3
+nfc chip,3
+modif,4
+msc,2
+como,6
+capac batteri,3
+cliq,1
+electr plug,2
+tmobil version,2
+anticip,2
+approx,2
+es una,3
+label,6
+en mi,4
+toggl,4
+wall charger,4
+mother,7
+gigabyt,6
+greet,2
+advert,3
+dime,3
+ningun,3
+statement,3
+successor,3
+motorola cliq,2
+math,4
+virgin,1
+equal,5
+enlarg,2
+act,4
+defin,4
+european plug,2
+anroid,2
+rgb,2
+robot,2
+sgii,2
+sol,2
+ultra slim,2
+dai ship,2
+quot,3
+ma que,4
+hace,6
+shortli,5
+smartphon market,2
+lockscreen,3
+curiou,4
+pda,4
+subscrib,1
+facial,1
+contact pictur,2
+buddi,2
+gb memori,2
+appoint,4
+charg overnight,2
+april,3
+softwar includ,2
+funcion que,2
+aftermarket,2
+grab,7
+femal,3
+quadcor,3
+look tini,2
+baromet,2
+fluidez,2
+nf,2
+potenti buyer,2
+resal,2
+closest,3
+que se,4
+associ,3
+iii model,2
+singl charg,7
+spanish menu,2
+digitel,3
+soooo,3
+remot,8
+batteri capac,2
+que lo,2
+verizon droid,2
+read onlin,2
+mount,5
+iter,3
+prepaid,1
+task switcher,2
+sprint subscrib,2
+wipe,4
+bend,2
+clip,2
+silenc,2
+technic spec,2
+que le,3
+devic instead,2
+earth,1
+stock app,4
+mejor,4
+wrap,3
+nit,3
+dig,3
+san diego,3
+memo,4
+opt,4
+near field commun,2
+wider,5
+hungri,2
+reli,2
+share info,2
+warrenti,2
+difer,4
+unlock gsm,4
+baseband,2
+outdat,7
+audio plug,2
+hunt,2
+beleiv,3
+qwerti,1
+interfaz,3
+que el,2
+fingertip,2
+underneath,2
+odin,3
+aux,2
+samsung itali,2
+spam,2
+march,3
+lower price,2
+maxx hd,2
+mini laptop,2
+lineup,2
+stitcher,2
+radio shack,5
+june,6
+view angl,3
+statu,4
+asian languag,2
+realment,6
+mega,1
+monitor,2
+grown,2
+preset,2
+worldwid distributor,3
+fare,2
+sprint store,3
+action shot,4
+tien,9
+vivo,1
+id,3
+automat chang,3
+stai connect,2
+page load,2
+bag,3
+shelf,3
+sooooo,3
+technician,3
+fm,1
+problema,11
+ultim,4
+asleep,2
+blanco,2
+bunch,2
+corr,2
+droid bionic,2
+hong kong,2
+oct,2
+puntual,2
+satisfact,2
+subtl,2
+suppli,2
+terrifi,2
+thousand,2
+trinidad,2
+upright,2
+wmv,2
+decir,4
+field,2
+alloi,2
+stat,3
+swiftkei,3
+mid,4
+velocidad,3
+todo,8
+el telefono,7
+san,1
+icecream sandwich,4
+hoop,2
+void,2
+ki softwar,2
+probabl android,2
+share file,4
+hat,3
+publish,2
+la camara,3
+stock batteri,2
+contact list,2
+en cuanto,2
+immedi notic,2
+nexu prime,2
+receiv email,2
+shade,3
+chocol,2
+step ahead,2
+juego,3
+mm proxi,3
+fluke,2
+fiddl,2
+googl earth,2
+ligero,2
+squar root,2
+telekom,2
+wp,2
+sobr el,3
+tuesdai,3
+trip,4
+heavi weight,2
+shelv,2
+pixel displai,2
+todo lo,5
+leagu,3
+xda,1
+sweat,3
+hai,4
+asian,1
+wifi notif,2
+mm port,3
+contact custom servic,2
+measur,4
+blown,4
+retail,6
+speed dial,6
+cuenta,2
+outlook data,2
+simpli add,2
+twitter client,2
+ringer,3
+esta,6
+estoi realment,2
+funcion,4
+html,2
+tight,2
+pentil displai,3
+fellow,3
+fly,3
+phone weigh,3
+qualiti control,2
+ecuador,2
+width,5
+envio,3
+importantli,3
+relationship,3
+duplic,2
+io user,2
+todo bien,2
+equipo,10
+german market,2
+thumbnail,3
+lo mejor,3
+lockscreen control,3
+ala,2
+apn type,2
+toda la,7
+mi,8
+para que,3
+llego en,2
+ma,4
+everytim,2
+modul,4
+kindl app,2
+text identif,2
+thinnest smartphon,3
+band wagon,2
+quadrant,2
+household,2
+steve,2
+xwkdd,2
+remot control,3
+fue,7
+toda,2
+cyanogenmod,3
+weigh,6
+ferrari,3
+sandisk,4
+phone dial,2
+buri,4
+wall,1
+dato,3
+android es,2
+est,9
+tutori,3
+landscap mode,3
+juli,4
+logo,3
+watch hd movi,3
+joya,3
+stock browser,2
+lesson learn,3
+cradl,2
+easter,2
+standpoint,2
+stop charg,3
+calidad,7
+written,7
+def,2
+en venezuela,7
+mano,4
+transfer data,3
+funciona,8
+compra,3
+merg,4
+thinnest,1
+bubbl wrap,2
+casi,4
+booster,2
+compress,2
+multimedia,2
+feather,3
+upload speed,2
+vendedor,6
+en perfecta condicion,3
+heavi usag,3
+dealer,4
+belt,3
+ny,4
+tien una,3
+en el mercado,2
+ceram white,5
+en una,2
+en est,2
+dock,6
+celular del,3
+dictionari,3
+briefli,2
+andorid phone,2
+book mark,2
+chew,2
+chile,2
+cloth,2
+cooler,2
+curvi,2
+cuz,2
+dicen,2
+earpiec volum,2
+es espectacular,2
+factori seal,2
+grain,2
+jump ship,2
+optic,2
+pixil,2
+quantum leap,2
+quick search,2
+xvid,2
+yearli,2
+yell,2
+yapper,1
+lo recomiendo,10
+dise,4
+credit,2
+european market,2
+ceram,1
+producto,7
+amazon wireless,4
+blindli,4
+identif,1
+data transfer,2
+metro,2
+real bummer,2
+bummer,1
+fenc,3
+puedo,3
+rezound,2
+celular,3
+variou app,2
+la persona que,2
+que usar la,2
+costa rica,3
+entrega,3
+gamer,3
+mondai,3
+surg telecom,3
+comprar est,2
+cuando,5
+mi compra,2
+cutter,3
+low cost,2
+premium feel,2
+del celular,2
+jailbreak,4
+salt,3
+mucho,5
+near futur,2
+por lo,2
+bueno,5
+grandfath,2
+en poca palabra,2
+vivo en,2
+attend,2
+hdmi mhl,2
+wait till,2
+contact info,2
+tengo el,2
+treat,3
+umt,1
+shiprack,2
+perfecto,5
+increibl,2
+central,2
+hoi,4
+gig card,2
+perfecta,5
+run circl,2
+sticker,3
+poco,6
+arrang,3
+el producto,2
+airi,2
+album,2
+aparato,2
+bulk,2
+carrier logo,2
+distanc,2
+divx,2
+jet black,2
+octob,2
+recomendado,2
+te,2
+usuario,2
+corriendo,2
+tier,3
+uno,6
+mercado,4
+watch tv,2
+push notif,2
+video es,2
+buffer,3
+dad,3
+vien,3
+drive mode,2
+iv seen,3
+troubleshoot,4
+sat,2
+shop experi,2
+sobr,1
+farthest,2
+cingularproxi,3
+tengo,3
+todo el,3
+tuve,3
+android expert,2
+clue,2
+deduct,2
+kick siri,2
+mayor,2
+miami,2
+miscrosoft,2
+pila,2
+potent,2
+retina displai,2
+simcard,2
+tengan,2
+meno,5
+hand held tablet,2
+la compra,2
+cosa,3
+meantim,3
+ya que,2
+ahora,2
+stamp,1
+moder usag,3
+el galaxi,2
+nunca,3
+la bateria,3
+mundo,4
+bevel,2
+cambio,2
+colleg,2
+forai,2
+htc design,2
+market option,2
+recomiendo altament,2
+viewer,2
+ymmv,2
+thinnest phone,2
+espectacular,2
+le,6
+usar,1
+bien,2
+wap,3
+encanta,3
+inadvert,3
+aliv,2
+backpack,2
+cantidad,2
+dobl nucleo,2
+para trabajar,2
+prob,2
+est equipo,2
+milliamp,1
+advic,5
+section,4
+forgot,5
+freight,2
+tenido hasta,2
+url,2
+buen,3
+ya,2
+categori,3
+solo,3
+recomiendo,1
+dispon,4
+ciento,2
+comprarl,2
+fourth,2
+giii,2
+graba,2
+mismo,2
+pantech,2
+postag stamp,2
+uplink,2
+plu ship,2
+mui buen,3
+tiempo,9
+downlink,2
+esto,2
+pressur,2
+condicion,2
+jailbroken,3
+lo compr,3
+servicio,2
+tenido,2
+hasta ahora,2
+usando,2
+poca,1
+lo uso,2
+forma,3
+navegador,3
+samsung websit,3
+bateria,1
+entr,2
+modo,2
+tal cual,2
+clarament,2
+decid factor,2
+fluido,2
+llevar,2
+correo,2
+rapida,2
+dura,5
+eso,2
+smartphon del,2
+comprar,1
+buen producto,3
+si,3
+bolsillo del,2
+otra,2
+sistema,2
+train,2
+espero,4
+venezuela funciona,2
+uso,4
+hasta,1
+puedo decir,2
+el softwar,3
+manera mui,2
+listo,3
+invoic,2
+estoi,4
+soi,3
+palabra,1
+n't,600
+s3,297
+purcha,168
+ca n't,128
+easi,128
+galaxi s3,111
+t-mobil,100
+'re,86
+over,82
+s2,77
+'ll,76
+at&t,76
+replac,76
+smart phone,74
+incr,71
+pretti,71
+iphon 4s,68
+gs3,62
+etc.,61
+'d,60
+wo n't,60
+faster,59
+galaxi s2,58
+respon,57
+relea,55
+brow,44
+s-voic,43
+cheap,41
+cour,39
+disappoint,38
+perfectli,36
+save,36
+hate,34
+wi-fi,32
+choo,31
+fantast,31
+understand,31
+adverti,30
+16gb,27
+super,27
+suppo,27
+i9100,26
+crisp,25
+expen,25
+gs2,25
+power button,25
+32gb,24
+extrem,24
+surpri,24
+wor,24
+loud,23
+stuck,23
+absolut,22
+cau,22
+deci,22
+super amol,21
+:1,20
+neg,20
+sen,20
+2012,18
+amaz phone,18
+ey,18
+bug,17
+hou,17
+1.2 ghz,16
+\*\*,16
+appar,16
+hype,16
+terribl,16
+2gb,15
+8mp camera,15
+\*\*\*,15
+advantag,15
+attach,15
+gt-i9100,15
+instruct,15
+sound qualiti,15
+u.s.,15
+voic recognit,15
+android 4.0,14
+dead,14
+fall,14
+occas,14
+refu,14
+2011,13
+awesom phone,13
+confu,13
+correct,13
+ea,13
+promi,13
+slide,13
+user friendli,13
+1080p,12
+afraid,12
+agr,12
+excel phone,12
+gt-i9100g,12
+increa,12
+n't feel,12
+sgs2,12
+superb,12
+weak,12
+4.1,11
+4.3,11
+beauti screen,11
+convert,11
+daili,11
+delai,11
+e-mail,11
+fell,11
+n't care,11
+nice phone,11
+properli,11
+samsung product,11
+x.,11
+1.5 ghz,10
+4.8,10
+64gb,10
+amaz screen,10
+android 2.3.4,10
+broken,10
+excit,10
+iphone4,10
+learn curv,10
+multitask,10
+profess,10
+remov batteri,10
+samsung support,10
+seriou,10
+1900 mhz,9
+1gb,9
+2.3.4,9
+4,9
+4.8 inch,9
+8mp,9
+amazon.com,9
+appl fan,9
+captiv,9
+chipset,9
+clariti,9
+el tel&eacute;fono,9
+excel product,9
+exten,9
+gsiii,9
+infu,9
+lose,9
+mainli,9
+mp camera,9
+multi-task,9
+n't tri,9
+nativ,9
+noi,9
+smart stai,9
+thinner,9
+uninst,9
+varieti,9
+vivid,9
+'re look,8
+2.3.3,8
+2.3.5,8
+4s,8
+conver,8
+detect,8
+guarant,8
+i9100g,8
+ignor,8
+ii gt-i9100,8
+indic,8
+la bater&iacute;a,8
+led flash,8
+loss,8
+peopl complain,8
+quad-cor,8
+replac batteri,8
+samsung s3,8
+satur,8
+snap,8
+somewhat,8
+walk,8
+whatsoev,8
+altern,7
+aw,7
+batteri drain,7
+bright set,7
+cdma,7
+conclu,7
+dual-cor,7
+freedom,7
+heavier,7
+iphone5,7
+len,7
+met,7
+mp3,7
+opportun,7
+perfect phone,7
+phone avail,7
+router,7
+supposedli,7
+surfac,7
+t-mobil network,7
+techi,7
+unlimit data,7
+weather,7
+'ll updat,6
+\*\*\* updat,6
+amazingli,6
+android fan,6
+auto-bright,6
+awesom featur,6
+batteri power,6
+beautifulli,6
+breath,6
+buena,6
+built-in,6
+cent,6
+corner,6
+crapwar,6
+disconnect,6
+encount,6
+fal,6
+fragment,6
+free app,6
+hell,6
+hiccup,6
+i9300,6
+indoor,6
+joi,6
+machin,6
+maintain,6
+muffl,6
+mui bien,6
+n't expect,6
+n't understand,6
+neat,6
+nice featur,6
+offici,6
+origin evo,6
+otterbox,6
+photograph,6
+posit review,6
+pretti cool,6
+pu,6
+regardless,6
+request,6
+sgiii,6
+signif,6
+slight,6
+standbi,6
+suffer,6
+tabl,6
+tout,6
+tower,6
+w\/o,6
+wrote,6
+~,6
+11.5 +1.97,5
+2010,5
+2mp,5
+4.2,5
+9.5,5
+@,5
+adaptor,5
+advi,5
+ag,5
+ap,5
+app avail,5
+appl inc.,5
+articl,5
+at&t custom,5
+at&t store,5
+backward,5
+bed,5
+benchmark,5
+board,5
+buck,5
+camp,5
+cellular,5
+cheap plastic,5
+chine,5
+compromi,5
+cool featur,5
+d&iacute;a,5
+desd,5
+easili access,5
+emul,5
+enhanc,5
+extrem fast,5
+extrem light,5
+fanboi,5
+fast phone,5
+g.,5
+gnexu,5
+googl navig,5
+hand free,5
+height,5
+high-end,5
+htc sensat,5
+jb,5
+latin america,5
+linux,5
+loo,5
+m&aacute;,5
+motorola triumph,5
+n't allow,5
+n't bad,5
+n't complet,5
+n't support,5
+panorama,5
+pau,5
+penni,5
+power phone,5
+powerh,5
+pre-inst,5
+product arriv,5
+public,5
+purpo,5
+quiet,5
+quirk,5
+render,5
+repr,5
+s-beam,5
+s3 phone,5
+samsung captiv,5
+samsung i9100 galaxi,5
+schedul,5
+screen crack,5
+screen resolut,5
+screen rotat,5
+sdcard,5
+sharper,5
+shown,5
+shutter,5
+silicon,5
+smile,5
+sooner,5
+stupid,5
+suit,5
+sunlight,5
+t-mobil version,5
+tad,5
+tech support,5
+tectil,5
+tel&eacute;fono,5
+thread,5
+tradit,5
+unbeliev,5
+understood,5
+unu,5
+vari,5
+visit,5
+'ll love,4
+1080p video,4
+2.3.6,4
+2.5,4
+4.5,4
+4.5 star,4
+720p,4
+accent,4
+accuraci,4
+adw launcher,4
+aesthet,4
+alarm clock,4
+allshar,4
+american,4
+american version,4
+android 2.3,4
+android 2.3.3,4
+approxim,4
+awesom screen,4
+babi,4
+basic function,4
+batt,4
+batteri save,4
+bell,4
+boost mobil,4
+btw,4
+bulkier,4
+bullet,4
+calcul,4
+clunki,4
+cm9,4
+commerci,4
+compen,4
+concret,4
+contain,4
+cool phone,4
+data cabl,4
+decod,4
+direct sunlight,4
+discount,4
+droid x.,4
+drop file,4
+dual-cor cpu,4
+ear bud,4
+easi access,4
+encourag,4
+excel camera,4
+exchang server,4
+exclu,4
+fantast phone,4
+fee,4
+ferri,4
+fight,4
+fingerprint,4
+font,4
+front-fac camera,4
+funni,4
+g1,4
+gen,4
+gp lock,4
+gpu,4
+greatli,4
+heavili,4
+hint,4
+hola,4
+huge fan,4
+i-phon,4
+i.,4
+i.e.,4
+ii sa-i9100,4
+impresion,4
+incre&iacute;bl,4
+inten,4
+interact,4
+japan,4
+justifi,4
+kg7,4
+land,4
+layout,4
+lesser,4
+m&oacute;vil,4
+margin,4
+massiv,4
+maximum,4
+migrat,4
+minim,4
+monthli,4
+mp3 player,4
+msn,4
+n't matter,4
+n't regret,4
+n8,4
+nearli imposs,4
+neg review,4
+nexu s.,4
+nice camera,4
+nice screen,4
+ning&uacute;n,4
+otter box,4
+percentag,4
+perfect size,4
+phone provid,4
+phone support,4
+pm,4
+portugu,4
+prai,4
+pre-ord,4
+preserv,4
+prevent,4
+primarili,4
+pump,4
+pur,4
+r&aacute;pido,4
+reader,4
+recognit,4
+refurbish,4
+restaur,4
+rever,4
+review help,4
+rington,4
+row,4
+run smoothli,4
+sa-i9100,4
+screen freez,4
+screen qualiti,4
+secondari phone,4
+sentenc,4
+serv,4
+servic provid,4
+sg3,4
+sgh-t999,4
+sgs3,4
+snapdragon s4 processor,4
+social network,4
+soft kei,4
+spare batteri,4
+stori,4
+strang,4
+super light,4
+t.v.,4
+technic support,4
+tecnolog&iacute;a,4
+telephon,4
+theme,4
+theori,4
+tho,4
+ticket,4
+tilt,4
+transform,4
+trust,4
+tw4,4
+unr,4
+valid,4
+vlingo,4
+wallpap,4
+wcdma,4
+worth note,4
+wouldnt,4
+zagg,4
+&#34;,3
+'d probabl,3
+'re bui,3
+'re readi,3
+1.2,3
+1.5,3
+1.9,3
+1.9 mp,3
+16gb white,3
+1700,3
+1700\/2100 mhz,3
+1800,3
+1900,3
+1gb ram,3
+1ghz,3
+2,3
+2.1,3
+2013,3
+2100 mah batteri,3
+2x,3
+3.5,3
+32g,3
+3g\/4g,3
+4.52,3
+4.8-inch,3
+40\/mo,3
+48gb,3
+6:00,3
+720p resolut,3
+8-megapixel camera,3
+80mcc,3
+\*\*\* \*\*\* \*\*\*,3
+a&uacute;n,3
+abu,3
+accel,3
+actual pretti,3
+addict,3
+adob flash player,3
+ah,3
+allow user,3
+amol displai,3
+android 4.0.4,3
+android 4.1,3
+android ecosystem,3
+anytim,3
+arm,3
+asap,3
+at&t version,3
+auto-connect,3
+auto-focu,3
+backlit,3
+bad experi,3
+bad phone,3
+bad review,3
+bahama,3
+bandwidth,3
+bank,3
+bc,3
+beauti phone,3
+beauti pictur,3
+beautifulli design,3
+bet,3
+bizarr,3
+blackberri curv,3
+blaze,3
+blew,3
+bluetooth headset,3
+booklet,3
+boyfriend,3
+brilliant screen,3
+buddi photo share,3
+budget,3
+built-in featur,3
+cam,3
+camera len,3
+carpet,3
+cat,3
+cd,3
+cellular network,3
+charm,3
+cheap look,3
+check email,3
+child,3
+clock\/weath,3
+coff,3
+complet satisfi,3
+compr&eacute;,3
+comprado,3
+consequ,3
+conserv batteri,3
+consumpt,3
+count,3
+countless,3
+crack screen,3
+creak,3
+cs,3
+daili basi,3
+daylight,3
+debat,3
+dedic camera,3
+delic,3
+dia,3
+dimen,3
+distort,3
+distribut,3
+driven,3
+dual camera,3
+e.g.,3
+editor,3
+effort,3
+el env&iacute;o,3
+electron devic,3
+elig,3
+endless,3
+entir dai,3
+escal,3
+est tel&eacute;fono,3
+est&aacute;,3
+ex,3
+exce,3
+excel screen,3
+expansi inc.,3
+extend period,3
+extent,3
+favorit app,3
+fedex,3
+feel free,3
+fingernail,3
+fit perfectli,3
+flipboard,3
+flow,3
+forgiv,3
+fought,3
+fuera,3
+garant&iacute;a,3
+geek,3
+german app,3
+gimmick,3
+girlfriend,3
+goal,3
+goodi,3
+gorgeou screen,3
+gram,3
+green,3
+gt-i9100 model,3
+gt-i9300,3
+hacer,3
+hardli notic,3
+hd voic,3
+hdr,3
+hdtv,3
+heart,3
+heavi duti,3
+hello,3
+hole,3
+holster,3
+hora,3
+htc desir,3
+htc inspir,3
+hub,3
+i5,3
+i9100g instead,3
+ill,3
+imag stabil,3
+impact,3
+incid,3
+includ instruct,3
+increment,3
+instagram,3
+investig,3
+involv,3
+iron,3
+ke2,3
+kit,3
+la versi&oacute;n,3
+leav blank,3
+led light,3
+legal,3
+log,3
+look pretti,3
+low light,3
+low-light,3
+madden,3
+mall,3
+maxim,3
+media player,3
+method,3
+mexico,3
+microsoft,3
+million,3
+min,3
+mini-tablet,3
+minimum,3
+mirror,3
+motherboard,3
+mou,3
+movilnet,3
+mui r&aacute;pido,3
+mute,3
+n't abl,3
+n't actual,3
+n't avail,3
+n't believ,3
+n't bother,3
+n't charg,3
+n't connect,3
+n't drop,3
+n't hesit,3
+n't impress,3
+n't load,3
+n't love,3
+n't mean,3
+n't mind,3
+n't notic,3
+n't plai,3
+n't realiz,3
+n't upgrad,3
+necesita,3
+nokia n8,3
+normal usag,3
+notic effect,3
+nova,3
+nt,3
+nuevo,3
+numer keypad,3
+on\/off,3
+ordinari,3
+origin droid,3
+ota,3
+otterbox defend,3
+paint,3
+palm pre,3
+pant,3
+parti app,3
+parti seller,3
+patch,3
+pattern,3
+peak,3
+percent,3
+permit,3
+phenomin,3
+phone absolut,3
+phone fell,3
+phone sound,3
+phone upgrad,3
+physic keyboard,3
+pixel densiti,3
+plu technolog,3
+polycarbon,3
+power user,3
+pre-load,3
+predecessor,3
+price tag,3
+primari phone,3
+procedur,3
+profit,3
+prospect buyer,3
+quad-cor exyno,3
+qualcomm,3
+quickoff,3
+rai,3
+rapidli,3
+ratio,3
+read book,3
+real estat,3
+reciev,3
+reduct,3
+refresh,3
+replac phone,3
+retard,3
+reveal,3
+rug,3
+russian,3
+s.,3
+s2 gt-i9100,3
+s4 processor,3
+sake,3
+saludo,3
+samol,3
+save monei,3
+screen break,3
+screen shatter,3
+secondari,3
+secondli,3
+self,3
+send email,3
+settl,3
+shipper,3
+shirt pocket,3
+sleep mode,3
+slimmer,3
+smile shot,3
+smoother,3
+smoothest,3
+soni xperia,3
+soo,3
+spectacular,3
+spell,3
+split,3
+sport event,3
+storag space,3
+sudden,3
+suffic,3
+sunni dai,3
+super-fast,3
+symbian,3
+t-mobil store,3
+t.,3
+t9,3
+tax,3
+televi,3
+tile,3
+top-notch,3
+touchwhiz 4.0,3
+touchwiz interfac,3
+touchwiz overlai,3
+trai,3
+transfer file,3
+translat,3
+txt,3
+uhkg7,3
+una buena,3
+unexpectedli,3
+univ,3
+user guid,3
+vacat,3
+ver,3
+verizon tech support,3
+video mode,3
+vino,3
+voic sound,3
+wanna,3
+weather forecast,3
+whatsapp,3
+widespread,3
+wifi popup,3
+wifi tether,3
+wire4less,3
+wolfson,3
+wonder featur,3
+youmail,3
+&#8242;,2
+&eacute;,2
+'d estim,2
+'d expect,2
+'d love,2
+'d recommend,2
+'d try,2
+'ll admit,2
+'ll notic,2
+'ll recommend,2
+'ll talk,2
+'ll try,2
+'ll wait,2
+'re text,2
+1.4 ghz,2
+1.5 ghz dual-cor,2
+1080p hd,2
+116g,2
+11gb avail,2
+13.43 gb,2
+136.6,2
+14g,2
+16g,2
+1900 frequenc,2
+199.99,2
+2-year,2
+2.3,2
+2.4,2
+2000mah,2
+2100mah batteri,2
+2gb ram,2
+30fp,2
+30th,2
+310mnc,2
+3x,2
+4.0.3,2
+4.3 inch,2
+4.3 screen,2
+4.7,2
+40,2
+410authent type,2
+4212,2
+4g-lte,2
+4glte,2
+5,2
+50g,2
+5pm,2
+7-Jun,2
+64g,2
+699,2
+7am,2
+8.0 mp,2
+8.49 mm,2
+8.6,2
+800x480,2
+8mpx,2
+9:00,2
+\*\*\* \*\*\*,2
+\*\*\* \*\*\* \*\*\* \*\*\* \*\*\*,2
+\*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\*,2
+\*\*\* batteri,2
+^,2
+absolut stupid,2
+absorb,2
+absurd,2
+acabado,2
+acceleromet,2
+accesori,2
+accesorio,2
+access control,2
+accordingli,2
+accustom,2
+actual design,2
+actualizaci&oacute;n,2
+ad driven app,2
+addit featur,2
+addit memori,2
+adel,2
+admittedli,2
+adquiri,2
+adquirir,2
+adult,2
+advanc featur,2
+advanc option,2
+airav,2
+algo,2
+alongsid,2
+amaz camera,2
+amazon app store,2
+analog,2
+and\/or,2
+android 4.0.3,2
+android base,2
+android build,2
+android lover,2
+android upgrad,2
+android\/googl,2
+anti,2
+apex,2
+apolog,2
+app icon,2
+applic manag,2
+apprehen,2
+appstor,2
+aqu&iacute; en,2
+arrog,2
+art phone,2
+assur,2
+asu transform,2
+at&t data,2
+at&t model,2
+atlanta,2
+atol,2
+attest,2
+attitud,2
+attribut,2
+audio output,2
+aun,2
+austin,2
+autofocu,2
+automat download,2
+avail app,2
+averag user,2
+awhil,2
+background process,2
+bai,2
+ballist,2
+band ii w-cdma 1900,2
+barrier,2
+basi,2
+bastant,2
+bater&iacute;a,2
+batteri di,2
+batteri issu,2
+batteri live,2
+batteri saver,2
+batterylif,2
+bbm,2
+beat audio,2
+beauti displai,2
+beauti look,2
+bedsid clock,2
+begun,2
+belong,2
+beta,2
+beta test,2
+bijju,2
+black berri,2
+blackberri 9900,2
+blackberri storm,2
+blue tint,2
+book store,2
+boom,2
+boondoggl,2
+borderlin,2
+bore iphon,2
+brag,2
+brainer,2
+brazilian,2
+bright level,2
+brighter screen,2
+brilliant displai,2
+british,2
+broken displai,2
+bs,2
+bu,2
+buen servicio,2
+bundl,2
+butter,2
+bye,2
+c&aacute;mara,2
+c&oacute;modo,2
+ca n't stop plai,2
+cabl compani,2
+caja,2
+calienta,2
+caller,2
+camcord,2
+camera mode,2
+camera option,2
+camerath,2
+candi shop,2
+canon,2
+cardboard,2
+care handl,2
+caribbean,2
+carrier bloatwar,2
+carrier relat,2
+casual,2
+cel phone,2
+cell data,2
+cellphon carrier,2
+channel,2
+characterist,2
+charg daili,2
+cheaper phone,2
+check facebook,2
+chief,2
+children,2
+chilean,2
+chosen,2
+chuckl,2
+cingular1serv,2
+cite,2
+claro,2
+cleanli,2
+clipboard,2
+clutter,2
+cn,2
+coincid,2
+collect,2
+color screen,2
+como si,2
+comoda,2
+compact phone,2
+compel,2
+complet dead,2
+complet opposit,2
+completed\/finish product,2
+compul,2
+conect,2
+conectarlo,2
+conexion,2
+confer,2
+conjunct,2
+consciou,2
+consol,2
+cook,2
+cord,2
+coronado,2
+correcta,2
+cortex-a9,2
+costum support,2
+cousin,2
+cover glass,2
+crank,2
+credenc,2
+credit card,2
+crop,2
+cross,2
+cue,2
+cumpl,2
+cup,2
+custom launcher,2
+custom support,2
+cyanogen mod,2
+da,2
+dai depend,2
+daili charg,2
+data consumpt,2
+day-to-dai,2
+dead phone,2
+decent camera,2
+decent qualiti,2
+dedic search button,2
+deeper,2
+definetli,2
+definitiva,2
+degr,2
+dell,2
+deploi,2
+desk,2
+despu&eacute;,2
+diagon,2
+didn,2
+didnt drop,2
+die hard,2
+differenti,2
+digit compass,2
+discharg,2
+dlna,2
+doubl tap,2
+doubletwist,2
+download mode,2
+drain quickli,2
+dramat,2
+drove,2
+dry,2
+dual-cor processor,2
+dual-cor version,2
+e75,2
+earn,2
+easili slip,2
+east africa,2
+ebook,2
+ect,2
+editor app,2
+eject,2
+el gp,2
+ema,2
+email account sync,2
+energi saver mode,2
+environ,2
+equiv,2
+error messag,2
+es m&aacute;,2
+es mui r&aacute;pido,2
+es r&aacute;pido,2
+especi consid,2
+est telefono,2
+est&aacute;n,2
+european design,2
+event,2
+exagg,2
+excel devic,2
+excu,2
+execut,2
+exit,2
+expend,2
+exyno 4210,2
+exyno chipset,2
+f&aacute;brica,2
+facebook app,2
+facetim,2
+facial recognit,2
+factori default,2
+fairli quickli,2
+faster speed,2
+fastest phone,2
+favor review,2
+fb,2
+februari,2
+feed,2
+feel bulki,2
+feel cheap,2
+feel kinda,2
+feel lag,2
+feel pretti,2
+feel solid,2
+feliz,2
+finger print,2
+fingerprint magnet,2
+firefox,2
+fixabl,2
+flagship smartphon,2
+flash player,2
+flash video,2
+flashlight,2
+flip cover,2
+float,2
+fold,2
+forth,2
+friendstream,2
+frustrat experi,2
+frustratingli,2
+fueron,2
+fullest potenti,2
+fullfil,2
+funciona perfecto,2
+furthermor,2
+g. iphon,2
+g3,2
+ga,2
+galaxi s.,2
+garag,2
+gci,2
+germani,2
+giant screen,2
+gig version,2
+gingerbread rom,2
+glare,2
+glare-proof,2
+glass broke,2
+glove,2
+good-look,2
+googl base,2
+googl music,2
+googl product,2
+googl servic,2
+gorgeou displai,2
+gp navig,2
+gp perform,2
+gp signal,2
+gr&aacute;fico,2
+grade,2
+grai,2
+gran,2
+grant,2
+graphic processor,2
+grati,2
+green phone,2
+groov,2
+gt-19300,2
+gta iii,2
+gun,2
+gyroscop,2
+hab&iacute;a,2
+habit,2
+hahahaha,2
+half dai,2
+half-bak,2
+hands\/f,2
+hard plastic,2
+hard-cor,2
+hardware\/softwar,2
+hater,2
+havent seen,2
+hd 1080p,2
+hd game,2
+hd super,2
+headphon jack,2
+heavi data user,2
+heavi load,2
+hebrew,2
+help peopl,2
+highli satisfactori,2
+highli suggest,2
+histori,2
+home network,2
+home wifi,2
+home-screen,2
+hop,2
+horizont,2
+hotmail,2
+hp,2
+htc g2,2
+htc hd2,2
+htc hero,2
+html format,2
+huge mistak,2
+hulu,2
+i1900,2
+i9100g version,2
+identifi,2
+idioma,2
+iexcl,2
+iheart,2
+im glad,2
+imag qualiti,2
+incluso la,2
+indestruct,2
+india,2
+inexpen,2
+inferior qualiti,2
+influenc,2
+insist,2
+intent,2
+interim,2
+internacion,2
+internet access,2
+interop,2
+invi,2
+ios6,2
+iphon fan,2
+iphon killer,2
+ipod4,2
+island,2
+israel,2
+itth,2
+j&aacute;,2
+jar,2
+jean,2
+judg,2
+juic defend,2
+justic,2
+kbp,2
+kitchen,2
+korean languag,2
+la c&aacute;mara,2
+la descripcion,2
+la duraci&oacute;n,2
+la empresa que lo,2
+la fecha,2
+la foto,2
+la navegacion,2
+larger phone,2
+largest,2
+latin samsung,2
+laugh,2
+launch dai,2
+launch s-voic,2
+layer,2
+led notif,2
+leg,2
+life threaten,2
+light condit,2
+light internet,2
+lightest,2
+lit,2
+llega,2
+llevarlo,2
+lo dem&aacute;,2
+lo m&aacute;ximo,2
+login,2
+long-press,2
+look cheap,2
+lose flash,2
+love android,2
+low rate,2
+lower speed,2
+lte capabl,2
+lte coverag,2
+luego,2
+m.,2
+macbook,2
+macro,2
+magazin,2
+magnet,2
+magnif,2
+main camera,2
+major flaw,2
+malfunct,2
+malwar,2
+map app,2
+maracai,2
+massiv 4.3,2
+maximum speed,2
+mb\/,2
+mechan,2
+media hub,2
+melhor,2
+mental,2
+mere,2
+mese,2
+mesh,2
+messag app,2
+messeng,2
+mi plan,2
+michigan,2
+micro sdhc card,2
+mint,2
+mobil data,2
+mobil os,2
+mod,2
+modelo,2
+modern phone,2
+momento,2
+monopoli,2
+motion set,2
+moto,2
+mouth,2
+ms offic,2
+mtp-initi,2
+mug,2
+mui buena resoluci&oacute;n,2
+multipl shot,2
+n't chang,2
+n't count,2
+n't figur,2
+n't fit,2
+n't happen,2
+n't heard,2
+n't kid,2
+n't lag,2
+n't live,2
+n't lose,2
+n't mention,2
+n't particularli care,2
+n't recal,2
+n't recogn,2
+n't rememb,2
+n't seal,2
+n't switch,2
+n't sync,2
+n't test,2
+n't trade,2
+n't try,2
+n't updat,2
+n't wast,2
+n't wonder,2
+n't worri,2
+nada,2
+nativ abil,2
+nativ email,2
+nav,2
+necessarili,2
+neck,2
+network select,2
+night charg,2
+nightli,2
+nokia e71,2
+nokia n900,2
+non-contract\/prepaid,2
+non-exist,2
+non-g,2
+non-remov,2
+nonsen,2
+nope,2
+not-so-obvi,2
+notebook,2
+12-Nov,2
+novalaunch,2
+nowadai,2
+obra,2
+offici updat,2
+omap,2
+on-board,2
+on-screen,2
+on-screen keyboard,2
+on\/off button,2
+one-hand,2
+onscreen,2
+opini&oacute;n,2
+organ,2
+orient,2
+origin batteri,2
+origin box,2
+origin galaxi,2
+origin gt-i9100,2
+otg,2
+otro,2
+ounc,2
+output,2
+outweigh,2
+over-satur,2
+overli,2
+oversight,2
+overview,2
+ownership,2
+pace,2
+packag arriv,2
+palm centro,2
+pancak,2
+pandora,2
+panoram,2
+parasit behavior,2
+park,2
+parrot,2
+parti softwar,2
+partli,2
+password,2
+patent,2
+pdf,2
+pdf file,2
+pen,2
+pero si,2
+person set,2
+peski,2
+philadelphia,2
+phone di,2
+phone excel,2
+phone live,2
+phone offici,2
+phone outsid,2
+phone recept,2
+phone-cum-tablet,2
+physic damag,2
+physic design,2
+pink,2
+pl,2
+planet,2
+plasma,2
+plastic construct,2
+plastic cover,2
+plate,2
+poke,2
+polici,2
+poor review,2
+pop-up,2
+pop-up plai,2
+porqu,2
+pose,2
+postal,2
+power batteri,2
+power devic,2
+powerpoint,2
+ppl,2
+pre,2
+pre-paid,2
+pre-relea,2
+precio,2
+predict text,2
+prefer s3,2
+premium devic,2
+preorder,2
+pretti ecstat,2
+previou app button,2
+previou non-contract\/prepaid offer,2
+previou owner,2
+price rang,2
+prioriti,2
+procesamiento,2
+program run,2
+prong,2
+protect phone,2
+proveedor,2
+provid excel,2
+pull-down,2
+punctuat,2
+puppi,2
+purpl,2
+qhd,2
+quad band,2
+quadband,2
+qualcomm s4,2
+queri,2
+quickli access,2
+qwerti keyboard,2
+rave review,2
+rbg,2
+re-ent,2
+real gripe,2
+rear-fac camera,2
+reason price,2
+reboot spontan,2
+recept issu,2
+recomiento,2
+record 1080p,2
+reformat,2
+reinstal,2
+rel light,2
+relev,2
+remov storag,2
+remov unwant,2
+rent,2
+repair shop,2
+replac app,2
+repost,2
+resembl,2
+resum,2
+return polici,2
+review complain,2
+review onlin,2
+rich color,2
+ripoff,2
+roadmap,2
+rollout,2
+rotat,2
+rubber,2
+rule,2
+run smooth,2
+run stabl,2
+rush,2
+russia,2
+s&uacute;p,2
+s2 phone,2
+s2 unlock,2
+s2but,2
+s3 box,2
+s3 camera,2
+s3 owner,2
+s3 unlock,2
+s3 yesterdai,2
+sa,2
+sa i9100,2
+samgal2,2
+samsung and\/or,2
+samsung india,2
+samsung polici,2
+samsung widget,2
+satisfecho,2
+satur level,2
+saver,2
+scan,2
+scatter,2
+scour,2
+screen activ,2
+screen bright,2
+screen color,2
+screen definit,2
+screen replac,2
+screen scratch,2
+screenshot,2
+seguido,2
+seguro,2
+self portrait,2
+serial,2
+set bright,2
+set mmsc,2
+set port,2
+sg2,2
+sgsiii,2
+share pictur,2
+sheer,2
+shopper,2
+shortfal,2
+shutter speed,2
+shutter-click sound,2
+sick,2
+side-by-sid,2
+side-load,2
+signatur,2
+simpl fall,2
+simpl phone,2
+simpl task,2
+simplest,2
+sister,2
+sky,2
+sleek design,2
+slider keyboard,2
+slr,2
+smarthphon,2
+smartphon bandwagon,2
+smartphon includ,2
+smile detect,2
+smudg,2
+snapdragon s4,2
+snappier,2
+so-so,2
+social media,2
+soft reset,2
+softwar featur,2
+sole,2
+solid phone,2
+soo light,2
+sorta,2
+south africa,2
+south american,2
+speaker volum,2
+specifi,2
+specul,2
+speech,2
+speed test,2
+staff,2
+stage,2
+stand-alon digit,2
+star review,2
+stare,2
+starter,2
+startup,2
+state-of-the-art,2
+station,2
+steadi hand,2
+stopper,2
+storag capac,2
+straw,2
+strike,2
+string,2
+strong signal,2
+strongli,2
+student,2
+studi,2
+sturdier,2
+sulfat,2
+sum,2
+super slim,2
+superb screen,2
+supervisor,2
+surround,2
+swai,2
+symbol,2
+t-mobil phone,2
+t-mobil prepaid,2
+t-mobil usa,2
+tactil button,2
+tall,2
+tan,2
+tan grand,2
+tango,2
+task killer,2
+tear,2
+tech geek,2
+tempera,2
+temperatur,2
+texa instrument,2
+thankfulli,2
+thier,2
+thirti,2
+threaten,2
+tightli,2
+tini scratch,2
+tmobil usa,2
+toddler,2
+toilet,2
+tomorrow,2
+torch,2
+touch kei,2
+touch wiz interfac,2
+touch-and-drag,2
+touch-button,2
+touchi,2
+touchwiz 4.0,2
+trabaja,2
+transfer music,2
+trial period,2
+twinkl toe,2
+u$,2
+u.k.,2
+u.s. version,2
+umt frequenc band,2
+undoubtedli,2
+unix,2
+unless verizon,2
+unlik iphon,2
+unlik siri,2
+unlimit talk\/text\/3g,2
+unlimit text,2
+unoffici,2
+unsightli,2
+upcom,2
+urgent,2
+usarlo,2
+usb driver,2
+usb storag,2
+user-friendli,2
+usp,2
+v&iacute;a,2
+v.,2
+v2 .3.4,2
+valu plan,2
+vanilla,2
+vari wildli,2
+variat,2
+vario,2
+vastli,2
+verdict,2
+video 1080p,2
+video playback,2
+videos\/movi,2
+virgin mobil,2
+vivid color,2
+vm,2
+voic applic,2
+voic input,2
+voic navig,2
+voic talk,2
+voice-mail,2
+voice-to-text,2
+volum boost,2
+vs 3.5,2
+vs.,2
+waaaai,2
+wager,2
+warm restart,2
+warranti nobl,2
+watch netflix,2
+waze,2
+weak batteri,2
+weak signal,2
+weather widget,2
+web content,2
+web site,2
+webo,2
+webpag,2
+weird stuff,2
+wet,2
+wi-fi connect,2
+wich,2
+wifi hot spot,2
+wifi hotspot featur,2
+wifi signal,2
+window environ,2
+window mobil,2
+wink,2
+wonder phone,2
+wore,2
+workaround,2
+world wide distributor,2
+writ,2
+wud,2
+x2,2
+xda forum,2
+xda-develop,2
+xeu,2
+xs3,2
+yapper wireless,2
+yea,2
+youtub app,2
+1.4,1
+13.43,1
+1700\/2100,1
+4.0.4,1
+4210,1
+8,1
+9900,1
+bandwagon,1
+behavior,1
+bud,1
+cel,1
+dem&aacute;,1
+densiti,1
+duraci&oacute;n,1
+e71,1
+east,1
+empresa,1
+env&iacute;o,1
+estim,1
+foto,1
+fullest,1
+g2,1
+hd2,1
+incluso,1
+jack,1
+primari,1
+prospect,1
+resoluci&oacute;n,1
+shirt,1
+sunni,1
+trial,1
+versi&oacute;n,1
+1.97,0
+.3.4,0
+11.5,0
+11gb,0
+2100,0
+2100mah,0
+410authent,0
+8-megapixel,0
+8.49,0
+adw,0
+africa,0
+airplan,0
+altament,0
+andorid,0
+aqu&iacute;,0
+bedsid,0
+bionic,0
+bird,0
+blank,0
+bolsillo,0
+bubbl,0
+butteri,0
+candi,0
+centro,0
+completed\/finish,0
+compr,0
+costa,0
+cream,0
+cual,0
+cuanto,0
+cyanogen,0
+descripcion,0
+destino,0
+diego,0
+distributor,0
+dobl,0
+duda,0
+duti,0
+earpiec,0
+estat,0
+expansi,0
+fecha,0
+fg,0
+forecast,0
+front-fac,0
+gta,0
+hero,0
+hong,0
+icecream,0
+imaag,0
+inc.,0
+itali,0
+jelli,0
+jet,0
+kong,0
+latin,0
+lesson,0
+m&aacute;ximo,0
+mah,0
+manera,0
+marbl,0
+merger,0
+miser,0
+mmsc,0
+n900,0
+navegacion,0
+nucleo,0
+otter,0
+overlai,0
+parasit,0
+pebbl,0
+persona,0
+popup,0
+postag,0
+proxi,0
+puget,0
+quantum,0
+rear-fac,0
+recal,0
+rica,0
+rocker,0
+s4,0
+scheme,0
+sdhc,0
+shack,0
+shutter-click,0
+slider,0
+stand-alon,0
+steadi,0
+storm,0
+surg,0
+switcher,0
+tactil,0
+tal,0
+talk\/text\/3g,0
+telecom,0
+toe,0
+touchwhiz,0
+trabajar,0
+twinkl,0
+v2,0
+w-cdma,0
+wagon,0
+wick,0
+wiz,0
+wo,0
+zone,0
+time,373
+love,253
+fast,189
+issu,160
+product,136
+nice,132
+amaz,128
+excel,116
+upgrad,98
+perfect,90
+happi,85
+person,85
+avail,84
+bright,79
+recommend,79
+support,75
+awesom,73
+color,73
+reason,71
+sound,71
+bad,70
+help,69
+mean,68
+beauti,66
+hope,65
+power,64
+live,56
+fine,55
+smooth,52
+improv,51
+free,50
+impress,48
+worth,47
+miss,46
+believ,43
+hard,43
+enjoi,42
+wonder,42
+navig,41
+annoi,39
+complaint,39
+provid,39
+pro,38
+opinion,37
+wrong,37
+cool,36
+resolut,36
+poor,35
+access,34
+lag,34
+prefer,34
+short,34
+slow,34
+satisfi,33
+capabl,31
+lack,31
+boost,30
+origin,30
+solid,30
+manag,29
+question,29
+recept,29
+scratch,29
+thank,29
+compat,28
+difficult,27
+freez,27
+unfortun,27
+concern,26
+realiz,26
+drain,25
+frustrat,25
+hot,25
+continu,24
+fail,24
+intuit,24
+limit,24
+troubl,24
+complain,23
+highli recommend,23
+regret,23
+select,23
+adjust,22
+error,22
+moment,22
+sorri,22
+suck,22
+comfort,21
+doubt,21
+easier,21
+imagin,21
+strong,21
+alarm,20
+lighter,20
+super fast,20
+crack,19
+depend,19
+disabl,19
+protect,19
+reliabl,19
+unlik,19
+fairli,18
+outsid,18
+sleek,18
+adapt,17
+fan,17
+fault,17
+gorgeou,17
+lost,17
+swipe,17
+crash,16
+decent,16
+glad,16
+plenti,16
+refund,16
+regard,16
+smoothli,16
+worri,16
+damag,15
+gripe,15
+hesit,15
+horribl,15
+readi,15
+rest,15
+usabl,15
+break,14
+cheaper,14
+downsid,14
+flimsi,14
+posit,14
+sharp,14
+superior,14
+blow,13
+bother,13
+broke,13
+consist,13
+forc,13
+forget,13
+fun,13
+junk,13
+ridicul,13
+vibrant,13
+defect,12
+flaw,12
+handi,12
+hang,12
+luck,12
+pleasur,12
+restrict,12
+smart,12
+unabl,12
+unlimit,12
+useless,12
+wast,12
+accur,11
+bore,11
+competit,11
+crap,11
+dim,11
+effect,11
+fragil,11
+seamless,11
+slower,11
+wow,11
+appreci,10
+conveni,10
+drag,10
+fair,10
+flexibl,10
+integr,10
+mess,10
+shatter,10
+slowli,10
+sturdi,10
+task manag,10
+tire,10
+warn,10
+worst,10
+advanc,9
+clean,9
+cloud,9
+dislik,9
+drawback,9
+fast processor,9
+favorit,9
+friendli,9
+kill,9
+led,9
+pain,9
+randomli,9
+recomend,9
+respect,9
+rival,9
+secur,9
+shame,9
+snappi,9
+soft,9
+ugli,9
+vibrat,9
+absolut love,8
+afford,8
+benefit,8
+blaze fast,8
+content,8
+desir,8
+durabl,8
+fastest,8
+flawless,8
+gift,8
+irrit,8
+lightn fast,8
+lucki,8
+outstand,8
+perfect condit,8
+popular,8
+sensit,8
+sexi,8
+slick,8
+stabl,8
+su,8
+wise,8
+worthless,8
+adequ,7
+bewar,7
+bonu,7
+buggi,7
+bulki,7
+correctli,7
+crappi,7
+crippl,7
+dark,7
+dumb,7
+exel,7
+flawlessli,7
+garbag,7
+happier,7
+inferior,7
+innov,7
+lead,7
+pretti decent,7
+resist,7
+shini,7
+shock,7
+stylish,7
+subject,7
+success,7
+trick,7
+affect,6
+attract,6
+awkward,6
+crazi,6
+destroi,6
+di,6
+difficulti,6
+fanci,6
+fortun,6
+freak,6
+headach,6
+honest,6
+hurt,6
+imposs,6
+incompat,6
+inspir,6
+laggi,6
+modern,6
+optim,6
+pass,6
+rich,6
+rip,6
+sad,6
+safe,6
+screw,6
+struggl,6
+stun,6
+total recommend,6
+tough,6
+weird,6
+appl product,5
+breez,5
+brilliant,5
+convinc,5
+death,5
+definit recommend,5
+deserv,5
+dissapoint,5
+effici,5
+fabul,5
+faulti,5
+favor,5
+fool,5
+fresh,5
+froze,5
+ghost,5
+gimmicki,5
+glitch,5
+hassl,5
+inconveni,5
+insan,5
+intermitt,5
+joke,5
+main concern,5
+mhl adapt,5
+mistak,5
+pan,5
+phenomen,5
+poorli,5
+prompt,5
+quicker,5
+resourc,5
+risk,5
+sadli,5
+shit,5
+short time,5
+sin,5
+spite,5
+stellar,5
+strongli recommend,5
+suspect,5
+sweet,5
+tempt,5
+thicker,5
+truth,5
+unaccept,5
+uncomfort,5
+warm,5
+welcom,5
+won,5
+worthi,5
+accomplish,4
+amazingli fast,4
+balanc,4
+batter,4
+bia,4
+bump,4
+butteri smooth,4
+cell recept,4
+challeng,4
+clumsi,4
+color pop,4
+color satur,4
+complic,4
+compliment,4
+conserv,4
+construct,4
+dedic,4
+delight,4
+die,4
+dirti,4
+disadvantag,4
+dust,4
+elimin,4
+enthusiast,4
+expir,4
+faster processor,4
+fresh air,4
+frozen,4
+fulfil,4
+fuzzi,4
+glow,4
+human,4
+killer,4
+knife,4
+knock,4
+li,4
+lousi,4
+loyal,4
+multipl time,4
+noisi,4
+odd,4
+overheat,4
+pathet,4
+permiss,4
+polish,4
+power save,4
+power saver,4
+qualifi,4
+robust,4
+rumor,4
+sacrif,4
+scare,4
+scratch resist,4
+shine,4
+silli,4
+simpler,4
+sin duda,4
+speedi,4
+surpass,4
+terrif,4
+trash,4
+verifi,4
+white color,4
+worth mention,4
+achiev,3
+aggrav,3
+angri bird,3
+argument,3
+audibl,3
+auto bright,3
+avail ram,3
+avid,3
+bell sound,3
+biggest complaint,3
+bite,3
+blah,3
+blame,3
+blind,3
+blurri,3
+brighter,3
+burn,3
+clearer,3
+color scheme,3
+critic,3
+crowd,3
+damn,3
+dare,3
+defend,3
+dictat,3
+dull,3
+entertain,3
+evalu,3
+fail miser,3
+fake,3
+fashion,3
+fast perform,3
+fast speed,3
+floor,3
+free space,3
+gain,3
+geniu,3
+genuin,3
+gloriou,3
+goe bad,3
+gp support,3
+hack,3
+hard reset,3
+harsh,3
+horrend,3
+huge improv,3
+idiot,3
+illeg,3
+inaccur,3
+individu,3
+instantli,3
+intellig,3
+interrupt,3
+intimid,3
+lemon,3
+lover,3
+main issu,3
+main reason,3
+masterpiec,3
+needless,3
+nervou,3
+nfc capabl,3
+nice product,3
+nice touch,3
+nicer,3
+nightmar,3
+object,3
+opposit,3
+outperform,3
+patient,3
+perfectli fine,3
+person prefer,3
+petti,3
+piti,3
+pleasantli,3
+poor recept,3
+power save mode,3
+pretti fast,3
+pretti happi,3
+process power,3
+product descript,3
+promot,3
+proper,3
+proprietari,3
+prove,3
+proven,3
+pure,3
+recent upgrad,3
+remedi,3
+rude,3
+scratch proof,3
+shortcom,3
+sim error,3
+spotti,3
+steal,3
+stress,3
+stronger,3
+successfulli,3
+time try,3
+unhappi,3
+unnecessari,3
+unusu,3
+vibrant color,3
+wick fast,3
+win,3
+winner,3
+wonderfulli,3
+absolut amaz,2
+ador,2
+advoc,2
+alarm sound,2
+amaz cellphon,2
+amaz displai,2
+amaz graphic,2
+ampl,2
+angri,2
+appeal,2
+approv,2
+astound,2
+attent,2
+auto correct,2
+awsom,2
+blur,2
+brainwash,2
+brightest,2
+buyer bewar,2
+cell provid,2
+cheat,2
+cold,2
+commit,2
+compact,2
+complement,2
+compliant,2
+contend,2
+contract free,2
+corrupt,2
+coupl time,2
+cure,2
+darker,2
+dead spot,2
+deceiv,2
+default bright,2
+definit improv,2
+definit worth,2
+deliveri time,2
+deni,2
+discourag,2
+disput,2
+domin,2
+downgrad,2
+dozen time,2
+drastic,2
+dy,2
+easiest,2
+eleg,2
+embarrass,2
+emerg,2
+enviou,2
+excel condit,2
+excel contrast,2
+excel perform,2
+excel pictur,2
+exploit,2
+fail merger,2
+fairli useless,2
+fantast product,2
+fascin,2
+fast deliveri,2
+fast navig,2
+fast process,2
+fast ship,2
+fat,2
+fear,2
+fond,2
+freak awesom,2
+free intern memori,2
+fri,2
+friggin,2
+fumbl,2
+gold,2
+golden,2
+googl support,2
+graini,2
+grand,2
+happi owner,2
+hard time,2
+hate itun,2
+hefti,2
+hiss,2
+hog,2
+hollow,2
+horribl horribl horribl horribl,2
+hot spot,2
+hum,2
+humbl,2
+ideal,2
+illumin,2
+ingeni,2
+insult,2
+invalu,2
+jealou,2
+junki,2
+knowledg,2
+lag whatsoev,2
+lame,2
+leer,2
+load faster,2
+load time,2
+logic,2
+love love love,2
+low power,2
+ly,2
+mad,2
+major improv,2
+manipul,2
+marvel,2
+matur,2
+mean time,2
+minor bug,2
+minor issu,2
+mislead,2
+music sound,2
+mysteri,2
+narrow,2
+neatli,2
+neg aspect,2
+nice job,2
+nice pictur,2
+nice size,2
+notabl,2
+notori,2
+novelti,2
+origin accessori,2
+outrag,2
+overwhelm,2
+pair issu,2
+partial,2
+passion,2
+peac,2
+peev,2
+person assist,2
+plagu,2
+plasticki,2
+plenti fast,2
+pointless,2
+poor materi,2
+power connector,2
+power gpu,2
+power hog,2
+power processor,2
+primari reason,2
+promin,2
+protect film,2
+pry,2
+puget sound,2
+punctual,2
+qualiti product,2
+quick access,2
+rapid,2
+rave,2
+recoveri,2
+redund,2
+rel fast,2
+repetit,2
+rough,2
+ruin,2
+scam,2
+scratch free,2
+sensat,2
+sharp imaag,2
+shutter lag,2
+silent,2
+simpli amaz,2
+simpli perfect,2
+singl complaint,2
+skeptic,2
+slight lag,2
+smash,2
+smooth transit,2
+softwar issu,2
+sophist,2
+sound effect,2
+splendid,2
+stumbl,2
+su aplicacion,2
+su destino,2
+subdu,2
+sue,2
+support page,2
+surviv,2
+sweep,2
+tacki,2
+talk time,2
+thank god,2
+thrill,2
+time goe,2
+time zone,2
+toler,2
+tortur,2
+total enjoi,2
+total worth,2
+transit effect,2
+tremend,2
+tricki,2
+true beauti,2
+truli amaz,2
+truli disappoint,2
+ultra fast,2
+unreal,2
+unsur,2
+unwant,2
+upset,2
+us,2
+usag time,2
+versatil,2
+viru,2
+wait time,2
+warp,2
+wifi issu,2
+wildli,2
+woman,2
+wont regret,2
+zealot,2
+compass,1
+satisfactori,1
+spontan,1
+ecstat,0
+instrument,0
+nobl,0
+stabil,0
+triumph,0
